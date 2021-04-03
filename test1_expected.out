@@ -1,0 +1,5 @@
+Token = Ident		Lexeme = "x"
+Token = ':'		Lexeme = ":"
+Token = Ident		Lexeme = "int"
+Token = '='		Lexeme = "="
+Token = Number		Lexeme = "1"
